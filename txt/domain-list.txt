@@ -21345,6 +21345,7 @@ twitch-exclusives.com
 twitch-facepunch.com
 twitch-facepunchs.com
 twitch-gaming.com
+twitch-gives.com
 twitch-global.com
 twitch-info.com
 twitch-katowice.com
